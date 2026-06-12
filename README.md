@@ -9,7 +9,6 @@ Sistema modular em Java voltado para a gestão de empresas, processamento de doc
 O projeto adota o padrão **Package by Feature** (Pacote por Funcionalidade), o que garante alta coesão, isolamento de escopo e facilidade para escalar o ecossistema.
 
 ```text
-src/main/java/com/sistema/
 ├── Main.java                 # Ponto de entrada do sistema e loop da interface
 ├── usuario/                  # Gestão de acessos e regras de herança polimórfica
 │   ├── Usuario.java          # Classe Abstrata Pai
